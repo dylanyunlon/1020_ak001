@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.cc": "cpp",
+        "system_error": "cpp",
+        "xmemory": "cpp",
+        "xstring": "cpp"
+    }
+}
